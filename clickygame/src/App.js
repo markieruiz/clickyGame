@@ -74,7 +74,8 @@ class App extends Component {
       message: 'You already clicked this one! Start Over!',
       topScore: this.state.score > this.state.topScore ? this.state.score : this.state.topScore,
       score: 0,
-      disableClick: false
+      disableClick: false,
+      characters: gameChars()
     })
   }
 
