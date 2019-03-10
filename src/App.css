@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.winGame {
+  margin-top: 80px;
+  font-size: 3.214285714285714rem;
+  padding: 5px;
+  display: inline-block;
+  font-weight: 300;
+  /* background: url('https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg');
+  background-size: cover; */
+} 
