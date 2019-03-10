@@ -6,9 +6,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
+  background: url('https://www.hbo.com/content/dam/hbodata/series/game-of-thrones/episodes/6/game-of-thrones-6-3000x1688.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg');
+  background-size: cover;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
-}
