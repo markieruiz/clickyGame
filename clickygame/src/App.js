@@ -40,7 +40,7 @@ class App extends Component {
   }
 
   turn = (id) => {
-    if (this.state.score === 4) {
+    if (this.state.score === 11) {
       this.setState({
         winText: "Congratulations!",
         headerText: "",
