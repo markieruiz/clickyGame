@@ -1,5 +1,6 @@
 const characters = [
-  {_id: 1, image: "https://raw.githubusercontent.com/markieruiz/clickyGame/tree/master/build/images/CL.png"},
+  {_id: 1, image: 'https://raw.githubusercontent.com/markieruiz/clickyGame/master/public/images/CL.png'},
+ 
   {_id: 2, image: "TL.png"},
   {_id: 3, image: 'DT.png'},
   {_id: 4, image: 'V.png'},
