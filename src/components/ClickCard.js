@@ -48,7 +48,9 @@ class ClickCard extends Component {
           >
           <img className={classes.imgCard} 
               alt={this.props.character.image} 
-              src={`/${this.props.character.image}`} 
+              src={this.props.character.image} 
+
+              // src={`/${this.props.character.image}`} 
         />
         </Paper>
       </Grid>
